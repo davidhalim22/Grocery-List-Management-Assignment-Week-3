@@ -37,3 +37,8 @@ while True:
         case _:
             print("Error Occurred")
             input("Enter to Continue")
+
+"""
+good code!! and very interesting approach, though it would be good to show the users what items are available. also try adding some error handling for when the user accidentally inputs
+and integer instead of a string so the code doesnt crash. overall, still good!
+"""
